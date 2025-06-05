@@ -8,6 +8,8 @@
 
 ## Requerimientos funcionales y no funcionales
 
+## Perfil operacional
+
 ## Aplicación de ATAM (básico)
 
 ## Análisis de brechas
